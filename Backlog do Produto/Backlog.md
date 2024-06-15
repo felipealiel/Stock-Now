@@ -1,6 +1,9 @@
-Personas 
+# Relatório Personas e user story
 
-#Persona 1
+Discentes Luanna, Felipe Aliel, Marcos Gabriel, Jander, Michel e Tiago.
+# Personas 
+
+## Persona 1
 |Nome: Pablo |
 |------------|
 |Idade: 40   |
@@ -38,7 +41,7 @@ Personas
 |S2: Não existe.|
 |S3: Não existe.|
 
-# Persona 2
+## Persona 2
 
 |Nome: Carlos |
 |-------------|
