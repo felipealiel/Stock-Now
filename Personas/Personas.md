@@ -165,5 +165,55 @@
 
 **S3**: Não existe.
 
+## Persona 4
+
+**Nome**: Leonardo
+
+**Idade**: 34
+
+### Quem?
+
+**Q1**: Gerente.
+
+**Q2**: Ensino superior completo.
+
+**Q3**: Uma pessoa muito compreensiva, observadora e dedicada.
+
+**Q4**: Não conseguir se organizar, pois precisar ser um bom gerente e manter um bom perfil profissional.
+
+### Contexto:
+
+**C1**:Gerenciamento de estoque, comunicação com seus superiores e funcionarios, receber relatórios e comunicação com amigos e familiares.
+
+### Problemas:
+
+**P1**: A falta de supervisão, ele não consegue manter tudo sob controle.
+
+**P2**: Diminuir o tempo que precisa passar trabalhando e melhor entendimento da real situação do estoque.
+
+### Experiência com tecnologia:
+
+**E1**: Chat de conversa, e aplicativos de distribuição de curriculos.
+
+**E2**: a falta de usabilidade, pois elas não são muito intuitivas.
+
+**E3**: Computador, celular, tablet.
+
+**E4**: Perguntas e lendo manuais.
+
+**E5**: prefere atalhos.
+
+**E6**: lendo textos.
+
+**E7**: Compartilhar acontecimentos.
+
+### Soluções: 
+
+**S1**: Não.
+
+**S2**: Não existe.
+
+**S3**: Não existe.
+
 
 
