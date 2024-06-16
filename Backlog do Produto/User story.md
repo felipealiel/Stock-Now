@@ -3,6 +3,7 @@
 Como analista de estoque, eu quero cadastrar novos produtos, para complementar meu estoque.
 
 **Critérios de aceitação :** Os usuários podem cadastrar apenas 1 produto por vez.
+
 Os usuários não deverão cadastrar o mesmo produto mais de 1 vez, mesmo que mude as datas de entrada.
 
 ## Funcionalidade 2: Registrar a data de validade dos produtos
