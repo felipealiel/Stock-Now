@@ -95,32 +95,15 @@ O aplicativo de gerenciamento de estoque permitirá que os usuários registrem o
 
 
 ## 3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
-| Responsabilidade                 | Profissional   |
-|-------------------------------|-------------------|
-| Definição de Personas            | Felipe         |
-| Definição de Personas            | Jander         |
-| Definição de Personas            | Michel         |
-| Definição de Personas            | Tiago          |
-| Criação de User Stories          | Luanna         |  
-| Criação de User Stories          | Felipe         |  
-| Criação de User Stories          | Marcos         |      
-| Formatação do projeto em Markdown| Luanna         |
-| Formatação do projeto em Markdown| Marcos         |
-| Formatação do Plano de Trabalho  | Luanna         |
-| Formatação do Plano de Trabalho  | Luanna         |
-| Backlog do Produto               | Felipe         |
-| Backlog do Produto               | Jander         |
-| Backlog do Produto               | Luanna         |
-| Backlog do Produto               | Marcos         |
-| Backlog do Produto               | Michel         |
-| Backlog do Produto               | Tiago          |
-| Backlog do Sprint                | Felipe         |
-| Backlog do Sprint                | Jander         |
-| Backlog do Sprint                | Luanna         |
-| Backlog do Sprint                | Marcos         |
-| Backlog do Sprint                | Michel         |
-| Backlog do Sprint                | Tiago          |
-
+| Responsabilidade                 | Profissional                                                              |
+|----------------------------------|---------------------------------------------------------------------------|
+| Definição de Personas            | Felipe,Jander, Michel e Tiago                                             |
+| Criação de User Stories          | Luanna, Felipe, Marcos                                                    |  
+| Formatação do projeto em Markdown| Luanna, Marcos                                                            |
+| Formatação do Plano de Trabalho  | Luanna, Marcos                                                            |
+| Backlog do Produto               | Felipe, Jander,Luanna,Marcos,Michel, Tiago                                |
+| Backlog do Sprint                | Felipe, Jander,Luanna,Marcos,Michel, Tiago                                |
+ 
 ## 3.3 Fases, atividades e cronograma
 
 ## Fase I: Especificação – Maio/Junho: 
