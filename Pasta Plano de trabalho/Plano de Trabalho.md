@@ -88,7 +88,14 @@ O aplicativo de gerenciamento de estoque permitirá que os usuários registrem o
 
 ## 3. METODOLOGIA DE PROJETO
 ## 3.1 Estrutura do Projeto
-
+| Responsabilidade                 | Profissional                                                              |
+|----------------------------------|---------------------------------------------------------------------------|
+| Definição de Personas            | Felipe,Jander, Michel e Tiago                                             |
+| Criação de User Stories          | Luanna, Felipe, Marcos                                                    |  
+| Formatação do projeto em Markdown| Luanna, Marcos                                                            |
+| Formatação do Plano de Trabalho  | Luanna, Marcos                                                            |
+| Backlog do Produto               | Felipe, Jander,Luanna,Marcos,Michel, Tiago                                |
+| Backlog do Sprint                | Felipe, Jander,Luanna,Marcos,Michel, Tiago   
 
 
 
