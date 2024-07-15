@@ -40,7 +40,7 @@ Como analista de estoque, eu quero ser informado sobre a quantidade total de gas
 Regras de negócio: A margem de lucro sobre cada produto, não deverá ultrapassar 100% do valor comprado.
 
 ## Funcionalidade 7: Codificação
-Como estoquista, eu quero que um código de barras de identificação seja gerado para cada novo produto registrado, para facilitar a leitura de código  no caixa .
+Como estoquista, eu quero que um código de identificação seja gerado para cada novo produto registrado, para facilitar a leitura de código  no caixa .
 
 **Critérios de aceitação:** Não pode haver mais de 1 produto com o mesmo código. 
 
