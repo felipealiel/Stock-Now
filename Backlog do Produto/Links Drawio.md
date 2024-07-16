@@ -1,3 +1,6 @@
+Diagrama de classes:
+https://app.diagrams.net/#G1hEtPz2lllNF3gLdD1DNzJjprcY-gIJzH#%7B%22pageId%22%3A%227odnKzkB1V_w14aa5Nxj%22%7D
+
 US1:
 https://app.diagrams.net/#G15X8i7cei641EItb-D0ZhDWl10BVNP6pi#%7B%22pageId%22%3A%22BWVISiyoEfTiVcNvP-LE%22%7D
 
