@@ -1,6 +1,6 @@
 # Alterações
 
-## User storys 1
+## User story 1
 **Versão anterior a inspeção** 
 Funcionalidade 1: Registrar novos produtos
 
@@ -19,7 +19,7 @@ Como analista de estoque, eu quero cadastrar novos produtos, para complementar m
 
 - Os usuários não deverão cadastrar o mesmo produto mais de 1 vez, ao entrar novos produtos irá somente atualizar a quantidade e acrescentar o novo lote.
 
-## User storys 2
+## User story 2
 
 **Versão anterior a inspeção** 
 Funcionalidade 2: Registrar a data de validade dos produtos
@@ -39,7 +39,7 @@ Como estoquista, eu quero poder registrar a data de validade dos produtos, para 
 
 - Regras de negócio: Os estoquistas devem retirar os produtos das prateleiras 1 semana antes de vencerem, e serão separados dos demais podendo entrar em promoção.
 
-## User storys 3
+## User story 3
 
 **Versão anterior a inspeção** 
 Funcionalidade 3: Emissão de relatórios
