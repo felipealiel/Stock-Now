@@ -60,6 +60,7 @@ Como especialista em inventário, eu quero receber relatórios diários sobre to
 - Regras de negócio: O cliente pode devolver o produto para o estoque em até uma semana, independente do motivo, pois consideramos o bem-estar dele que faz parte de nossa política
 
 ## User storys 4
+
 Funcionalidade 4: Contagem de produtos
 **Versão anterior a inspeção** 
 
@@ -77,6 +78,7 @@ Como especialista em inventário, eu quero receber um relatório por e-mail rela
 - Se um produto estiver em pouca quantidade o sistema deverá notificar e enviar por e-mail a solicitação de reposição, no horario de trabalho do funcionario.
 
 ## User storys 5 
+
 **Versão anterior a inspeção** 
 Funcionalidade 5: Alerta para falta de produtos
 
@@ -92,6 +94,7 @@ Como especialista em inventário, eu quero receber um alerta sempre que um produ
 - Critérios de aceitação: O sistema deverá gerar uma notificação para garantir que os usuários saibam que o produto está em falta, para que não corra o risco de repassar informação errada para o cliente.
 
 ## User storys 6
+
 **Versão anterior a inspeção** 
 Funcionalidade 6: Totalizar gastos
 
@@ -158,6 +161,7 @@ Como analista de estoque , eu quero poder realizar o cadastro de novos estoquist
 - Regras de negócio: O funcionário deve ter no mínimo 18 anos, para começar a trabalhar.
 
 ## User storys 10
+
 **Versão anterior a inspeção**
 Funcionalidade 10: Tutorial
 
@@ -173,6 +177,7 @@ Como funcionário, eu quero ter acesso a um tutorial para usar o app, para que p
 - Critérios de aceitação: O tutorial não deverá conter nenhum dado empresarial do sistema, apenas as suas funcionalidades. O tutorial será um video de no maximo 15 minutos, e estará disponivel no sistema.
 
 ## User storys 11
+
 **Versão anterior a inspeção**
 Funcionalidade 11: Controle de gastos
 
