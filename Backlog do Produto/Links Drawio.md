@@ -33,3 +33,6 @@ https://app.diagrams.net/#G180xaGokyjOsjmjc7X4pfhqi3N-brzTMX#%7B%22pageId%22%3A%
 
 US12:
 https://app.diagrams.net/#G1Xe3y52-17OqNUo_mRta8ZkX8p4w1Uafv#%7B%22pageId%22%3A%22R25ZWi_yLGkUvnfJlAJh%22%7D
+
+Diagrama C4:
+https://drive.google.com/file/d/13UUqCmOh-8oXt4acQP0VzlYgv9TKycuW/view?usp=sharing
