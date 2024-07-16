@@ -88,16 +88,26 @@ O aplicativo de gerenciamento de estoque permitirá que os usuários registrem o
 
 ## 3. METODOLOGIA DE PROJETO
 ## 3.1 Estrutura do Projeto
-| Responsabilidade                 | Profissional                                                              |
+
+| Tarefas e Comunicação            | Data                                                                      |
 |----------------------------------|---------------------------------------------------------------------------|
-| Definição de Personas            | Felipe,Jander, Michel e Tiago                                             |
-| Criação de User Stories          | Luanna, Felipe, Marcos                                                    |  
-| Formatação do projeto em Markdown| Luanna, Marcos                                                            |
-| Formatação do Plano de Trabalho  | Luanna, Marcos                                                            |
-| Backlog do Produto               | Felipe, Jander,Luanna,Marcos,Michel, Tiago                                |
-| Backlog do Sprint                | Felipe, Jander,Luanna,Marcos,Michel, Tiago   
-
-
+| Criação de Personas              | 04/06/2024                                                                |
+| Criação de User Stories          | 07/06/2024                                                                |  
+| Formatação do projeto em Markdown| 10/06/2024                                                                |
+| Formatação do Plano de Trabalho  | 06/06/2024                                                                |
+| Backlog do Produto               | 03/06/2024                                                                |
+| Backlog do Sprint                | 10/06/2024                                                                |
+| Reunião Presencial I             | 01/06/2024                                                                |
+| Reunião Presencial II            | 02/06/2024                                                                |
+| Reunião Presencial III           | 03/06/2024                                                                |
+| Reunião Presencial IV            | 04/06/2024                                                                |
+| Reunião Presencial V             | 05/06/2024                                                                |
+| Reunião Presencial VI            | 06/06/2024                                                                |
+| Reunião Presencial  VII          | 07/06/2024                                                                |
+| Reunião Presencial  VIII         | 08/06/2024                                                                |
+| Reunião Presencial IX            | 09/06/2024                                                                |
+| Reunião Presencial X             | 10/06/2024                                                                |
+| Comunicação Via WhatsApp         | 01/06 a 16/06                                                             |
 
 
 
