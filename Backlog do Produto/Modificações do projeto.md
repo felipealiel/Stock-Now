@@ -22,7 +22,6 @@ Como analista de estoque, eu quero cadastrar novos produtos, para complementar m
 ## User storys 2
 
 **Versão anterior a inspeção** 
-
 Funcionalidade 2: Registrar a data de validade dos produtos
 
 Como estoquista, eu quero poder registrar a data de validade dos produtos, para retirar os produtos que já estão próximos da validade.
@@ -52,7 +51,6 @@ Como especialista em inventário, eu quero receber relatórios diários sobre to
 - Regras de negócio: O cliente pode devolver o produto para o estoque em até uma semana.
 
 **Versão após a inspeção** 
-
 Funcionalidade 3: Emissão de relatórios
 
 Como especialista em inventário, eu quero receber relatórios diários sobre todas as vendas do dia , para manter um controle de estoque.
@@ -87,7 +85,6 @@ Como especialista em inventário, eu quero receber um alerta sempre que um produ
 - Critérios de aceitação: O sistema deverá garantir que os usuários saibam que o produto está com uma quantidade mínima, antes que ele acabe.
 
 **Versão após a inspeção**
-
 Funcionalidade 5: Alerta para falta de produtos
 
 Como especialista em inventário, eu quero receber um alerta sempre que um produto estiver em falta, para que seja solicitada a reposição.
@@ -103,7 +100,6 @@ Como analista de estoque, eu quero ser informado sobre a quantidade total de gas
 - Critérios de aceitação: O sistema deve garantir que o produto seja no mínimo 15% a mais que o valor inicial. Regras de negócio: A margem de lucro sobre cada produto, não deverá ultrapassar 100%.
 
 **Versão após a inspeção**
-
 Funcionalidade 6: Totalizar gastos
 
 Como analista de estoque, eu quero ser informado sobre a quantidade total de gastos como luz,e forma de armazenamento de cada produto dentro do estoque, para obter a margem de lucro.
@@ -120,7 +116,6 @@ Como estoquista, eu quero que um código de identificação seja gerado para cad
 - Critérios de aceitação: Não pode haver 2 produtos com o mesmo código.
 
 **Versão após a inspeção**
-
 Funcionalidade 7: Codificação
 
 Como estoquista, eu quero que um código de identificação seja gerado para cada novo produto registrado, para facilitar a leitura de código no caixa .
@@ -137,7 +132,6 @@ Como estoquista, eu quero receber listas dos produtos divididos por categorias n
 - Critérios de aceitação: Cada categoria só deve ter produtos que possuem semelhanças.
 
 **Versão após a inspeção**
-
 Funcionalidade 8: Listagem por categoria
 Como estoquista, eu quero receber listas dos produtos divididos por categorias nas quais foram registrados, para diferenciar melhor os produtos.
 
@@ -145,6 +139,7 @@ Como estoquista, eu quero receber listas dos produtos divididos por categorias n
   
 - Regras de negócio: Ao ser desligado da empresa, o código será desativado.
 ## User storys 9
+
 **Versão anterior a inspeção**
 Funcionalidade 9: Cadastro
 
@@ -179,7 +174,6 @@ Como funcionário, eu quero ter acesso a um tutorial para usar o app, para que p
 
 ## User storys 11
 **Versão anterior a inspeção**
-
 Funcionalidade 11: Controle de gastos
 
 Como analista de estoque, eu quero ter uma comparação de gastos mensais, para saber se houve aumento ou diminuição da taxa de gastos.
