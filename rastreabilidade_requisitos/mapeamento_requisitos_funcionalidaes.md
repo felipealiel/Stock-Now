@@ -92,7 +92,6 @@ Como gerente, eu quero que seja gerado um código de segurança para cada novo f
 
 
 
-Como gerente, eu quero que seja gerado um código de segurança para cada novo funcionário registrado, para controlar os acessos.
 
 
 
