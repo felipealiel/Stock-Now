@@ -1,18 +1,20 @@
 # Prototipos e suas especificações
 
-## User story I
+## User story 01
 - US1 - Como analista de estoque, eu quero registrar a entrada de novos itens no estoque para atualizar a movimentação dos produtos.
 
 ![image](https://github.com/user-attachments/assets/d37649d7-d74e-43e9-b839-a7ceec1fcf3f)
 
 ![image](https://github.com/user-attachments/assets/8304ae0e-e451-4f03-b5b8-61ddc6a89062)
 
-## User story II 
+## User story 02 
 
 Como estoquista, eu quero poder registrar a data de validade dos produtos, para retirar os produtos que já estão próximos da validade.
 
+![image](https://github.com/user-attachments/assets/090c481e-a72d-48e7-8a52-8c6a42a42033)
 
-## User story III
+
+## User story 03
 
  Como especialista em inventário, eu quero receber relatórios diários sobre todas as vendas do dia, para manter um controle de estoque.
 
@@ -41,6 +43,9 @@ Como especialista em inventário, eu quero receber um relatório por e-mail rela
 
  ![image](https://github.com/user-attachments/assets/e181cdb7-e112-4540-93df-3d44de117b9b)
 
+ ![image](https://github.com/user-attachments/assets/9eac6bae-aa4d-4193-b2eb-ad9a290d34af)
+
+
 ## User story 07
 
 Como estoquista, eu quero que um código de identificação seja gerado para cada novo produto registrado, para facilitar a leitura de código no caixa .
@@ -62,6 +67,12 @@ Como analista de estoque , eu quero poder realizar o cadastro de novos estoquist
 ![image](https://github.com/user-attachments/assets/0914070c-0c59-4db6-93bc-4061fce7d7f4)
 
 ![image](https://github.com/user-attachments/assets/10829b13-6efd-4797-9746-e873df8db4b2)
+
+## User story 10
+
+ Como funcionário, eu quero ter acesso a um tutorial para usar o app, para que possa utilizá-lo da forma correta.
+
+ ![image](https://github.com/user-attachments/assets/01f15396-f90d-44d4-b776-35cbb5c18c69)
 
 ## User story 11
 Como analista de estoque, eu quero ter uma comparação de gastos mensais, para saber se houve aumento ou diminuição da taxa de gastos.
