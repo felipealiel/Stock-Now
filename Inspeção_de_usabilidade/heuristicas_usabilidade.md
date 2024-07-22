@@ -3,8 +3,6 @@
 | Tela                 |  Heuristica Violada | Descrição                                                                            |
 |----------------------|---------------------|------------------------------------------------------------------------------------- |
 |Tela 1                |    H5               | Prevenção de erros                                                                   |
-|Tela 1                |    H5               | Prevenção de erros                                                                   |
-|Tela 2                |    H5               | Prevenção de erros                                                                   |
 |Tela 2                |    H5               | Prevenção de erros                                                                   |
 |Tela 3                |    H10              | Ajuda e documentação                                                                 |
 |Tela 3                |    H3               | Controle e liberdade do usuário                                                      |
