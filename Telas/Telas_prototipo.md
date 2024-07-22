@@ -1,6 +1,6 @@
 # Telas 
 
-Inicialmente teriam sido criadas 10 telas, após isso foram enviadas para uma inspeção, e logo em seguida foram acrescentados os ajustes e mudanças e as 12 telas se tornaram 21.
+Inicialmente teriam sido criadas 10 telas, após isso foram enviadas para uma inspeção, e logo em seguida foram acrescentados os ajustes e mudanças e as 12 telas se tornaram 22.
 
 A seguir seguem as telas do sistema Stock Now.
 
@@ -56,37 +56,41 @@ A seguir seguem as telas do sistema Stock Now.
 
 - Tela 13
 
+![image](https://github.com/user-attachments/assets/66d6dc32-b3b8-4a10-8761-fa28f02ecbb1)
+
+- Tela 14
+
 ![image](https://github.com/user-attachments/assets/63e4e984-9b5e-461d-8176-99dff149bf94)
 
- - Tela 14
+ - Tela 15
 
 ![image](https://github.com/user-attachments/assets/47160659-9625-4337-a719-58a4946d8452)
 
-- Tela 15
+- Tela 16
 
 ![image](https://github.com/user-attachments/assets/35ca3cfa-7066-4563-8bca-653034041362)
 
-- Tela 16
+- Tela 17
 
 ![image](https://github.com/user-attachments/assets/e4028a9d-4f2f-41f9-84a4-de40d8123c68)
 
-- Tela 17
+- Tela 18
 
 ![image](https://github.com/user-attachments/assets/f1ad7813-6120-4a26-851c-c925ce438cf8)
 
-- Tela 18
+- Tela 19
 
 ![image](https://github.com/user-attachments/assets/0f8e6e29-7c45-44d7-9327-c9d149c5b2d6)
 
-- Tela 19
+- Tela 20
 
 ![image](https://github.com/user-attachments/assets/528e2dcc-d77e-4c0c-9143-dee005b7d52f)
 
-- Tela 20
+- Tela 21
 
 ![image](https://github.com/user-attachments/assets/d6330cb6-213a-4b12-ac34-5100067fec72)
 
-- Tela 21
+- Tela 22
 
 ![image](https://github.com/user-attachments/assets/dc867bb6-3219-4146-9b26-97a05d81f127)
 
