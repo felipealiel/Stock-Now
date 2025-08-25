@@ -4,10 +4,10 @@
 |----------------------|-----------------|
 |Versão                |    1.0          |
 |Status                | Em andamento    |
-| Executor Principal   | Luanna          |
+| Executor Principal   | Felipe Aliel    |
 |Coordenador do Projeto| Andrey Rodrigues|
 
-**Integrantes : Felipe Aliel, Jander, Luanna Benezar, Marcos Gabriel, Michel e Tiago.**
+**Integrantes : Felipe Aliel, Laís Samily, Marcos Gabriel, Tiago.**
 
 
 ## HISTÓRICO DE VERSÕES 
