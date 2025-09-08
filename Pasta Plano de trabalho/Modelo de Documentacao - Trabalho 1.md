@@ -1,18 +1,22 @@
 1. **Descrição Geral do Projeto**  
    1.1 **Nome do Projeto**  
-   Exemplo: Nubank  
+   Stock Now
      
    1.2 **Descrição do Produto**  
-   Exemplo: Aplicativo de banco para gerenciar transferências, pix, cartões de crédito etc.  
-     
+   O Stock Now é um aplicativo de gerenciamento de estoque tanto de empresas quanto de empreendedores ou negócios em geral, de forma que o mesmo torne-se mais eficaz e diminua a margem de erro humano.
+   
    1.3 **Objetivo**  
-   Exemplo: O objetivo do projeto é desenvolver e manter um aplicativo bancário digital que ofereça serviços financeiros acessíveis, práticos e seguros, permitindo que os clientes realizem operações como abertura de conta, transferências, pagamentos, gerenciamento de cartão de crédito, investimentos e acompanhamento de gastos diretamente pelo smartphone, sem a necessidade de agências físicas.  
-     
+   Desenvolvimento de um aplicativo para  controle de estoque que ajude empresas e empreendedores a gerenciar de forma eficiente seus inventários.
+   
    1.4 **Motivação**  
-   Exemplo: A motivação central é atender à demanda crescente por soluções financeiras digitais que sejam simples, transparentes e centradas no usuário. O aplicativo busca democratizar o acesso a serviços bancários, reduzindo burocracias, taxas abusivas e oferecendo uma experiência ágil e intuitiva. Além disso, responde à necessidade de inclusão financeira e ao perfil cada vez mais digital da população.  
+   Com o ritmo acelerado da sociedade moderna as empresas buscam otimizar a forma com que utilizam seus recursos através de um gerenciamento preciso e confiável. E o Stock Now foi desenvolvido para atender essa demanda.
      
    1.5 **Equipe de Desenvolvimento**  
-   \<Lista aqui os nome dos integrantes da equipe de desenvolvimento\>
+   - Marcos Gabriel Peixoto Almeida
+   - Felipe Aliel Ramos da Silva
+   - Tiago dos Santos
+   - Laiz Samile
+   - Clarise
 
    
 
