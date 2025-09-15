@@ -1,6 +1,6 @@
 1. **Descrição Geral do Projeto**  
    1.1 **Nome do Projeto**  
-   Stock Now
+   Stock Now 
      
    1.2 **Descrição do Produto**  
    O Stock Now é um aplicativo de gerenciamento de estoque tanto de empresas quanto de empreendedores ou negócios em geral, de forma que o mesmo torne-se mais eficaz e diminua a margem de erro humano.
