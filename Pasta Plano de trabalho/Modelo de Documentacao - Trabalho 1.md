@@ -35,27 +35,27 @@ Os usuários finais do aplicativo são:
 
     - 2.1.1 **Requisitos Funcionais**
 
-- RF001: O sistema deve permitir o cadastro de novos produtos.
-- RF002: O sistema deve atualizar a quantidade e lote quando um produto já estiver cadastrado.
-- RF003: O sistema deve permitir registrar a data de validade dos produtos.
-- RF004: O sistema deve notificar quando algum produto estiver próximo da data de validade
-- RF005: O sistema deve gerar relatórios.
-- RF006: Os relatórios devem conter o nome do produto e a quantidade vendida.
-- RF007: O sistema deve notificar quando houver devolução ou cancelamento de venda.
-- RF008: O sistema deve enviar relatórios semanais por e-mail.
-- RF010: O relatório deve conter data de início e fim da semana, quantidade de produtos vendidos e total arrecadado.
-- RF011: O sistema deve enviar solicitação de reposição quando um produto estiver em pouca quantidade.
-- RF012: O sistema deve gerar uma notificação quando um produto estiver em falta.
-- RF013: O sistema deve calcular a margem de lucro sobre cada produto.
-- RF014: O sistema deve gerar um código único para cada produto registrado.
-- RF015: O sistema deve listar produtos separados por categoria.
-- RF016: O sistema deve permitir que o gerente cadastre novos funcionários.
-- RF017: O cadastro deve conter Nome, CPF, RG, Endereço, CEP.
-- RF018: O sistema deve disponibilizar um tutorial em vídeo.
-- RF019: O sistema deve gerar relatórios mensais de gastos.
-- RF020: O relatório deve incluir todas as vendas realizadas no mês.
-- RF021: O relatório deve comparar os gastos com os meses anteriores.
-- RF022: O sistema deve gerar um código de segurança para cada novo funcionário.
+    - RF001: O sistema deve permitir o cadastro de novos produtos.
+    - RF002: O sistema deve atualizar a quantidade e lote quando um produto já estiver cadastrado.
+    - RF003: O sistema deve permitir registrar a data de validade dos produtos.
+    - RF004: O sistema deve notificar quando algum produto estiver próximo da data de validade
+    - RF005: O sistema deve gerar relatórios.
+    - RF006: Os relatórios devem conter o nome do produto e a quantidade vendida.
+    - RF007: O sistema deve notificar quando houver devolução ou cancelamento de venda.
+    - RF008: O sistema deve enviar relatórios semanais por e-mail.
+    - RF010: O relatório deve conter data de início e fim da semana, quantidade de produtos vendidos e total arrecadado.
+    - RF011: O sistema deve enviar solicitação de reposição quando um produto estiver em pouca quantidade.
+    - RF012: O sistema deve gerar uma notificação quando um produto estiver em falta.
+    - RF013: O sistema deve calcular a margem de lucro sobre cada produto.
+    - RF014: O sistema deve gerar um código único para cada produto registrado.
+    - RF015: O sistema deve listar produtos separados por categoria.
+    - RF016: O sistema deve permitir que o gerente cadastre novos funcionários.
+    - RF017: O cadastro deve conter Nome, CPF, RG, Endereço, CEP.
+    - RF018: O sistema deve disponibilizar um tutorial em vídeo.
+    - RF019: O sistema deve gerar relatórios mensais de gastos.
+    - RF020: O relatório deve incluir todas as vendas realizadas no mês.
+    - RF021: O relatório deve comparar os gastos com os meses anteriores.
+    - RF022: O sistema deve gerar um código de segurança para cada novo funcionário.
 
 
 
