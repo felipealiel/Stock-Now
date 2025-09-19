@@ -43,19 +43,19 @@ Os usuários finais do aplicativo são:
     - RF006: Os relatórios devem conter o nome do produto e a quantidade vendida.
     - RF007: O sistema deve notificar quando houver devolução ou cancelamento de venda.
     - RF008: O sistema deve enviar relatórios semanais por e-mail.
-    - RF010: O relatório deve conter data de início e fim da semana, quantidade de produtos vendidos e total arrecadado.
-    - RF011: O sistema deve enviar solicitação de reposição quando um produto estiver em pouca quantidade.
-    - RF012: O sistema deve gerar uma notificação quando um produto estiver em falta.
-    - RF013: O sistema deve calcular a margem de lucro sobre cada produto.
-    - RF014: O sistema deve gerar um código único para cada produto registrado.
-    - RF015: O sistema deve listar produtos separados por categoria.
-    - RF016: O sistema deve permitir que o gerente cadastre novos funcionários.
-    - RF017: O cadastro deve conter Nome, CPF, RG, Endereço, CEP.
-    - RF018: O sistema deve disponibilizar um tutorial em vídeo.
-    - RF019: O sistema deve gerar relatórios mensais de gastos.
-    - RF020: O relatório deve incluir todas as vendas realizadas no mês.
-    - RF021: O relatório deve comparar os gastos com os meses anteriores.
-    - RF022: O sistema deve gerar um código de segurança para cada novo funcionário.
+    - RF009: O relatório deve conter data de início e fim da semana, quantidade de produtos vendidos e total arrecadado.
+    - RF010: O sistema deve enviar solicitação de reposição quando um produto estiver em pouca quantidade.
+    - RF011: O sistema deve gerar uma notificação quando um produto estiver em falta.
+    - RF012: O sistema deve calcular a margem de lucro sobre cada produto.
+    - RF013: O sistema deve gerar um código único para cada produto registrado.
+    - RF014: O sistema deve listar produtos separados por categoria.
+    - RF015: O sistema deve permitir que o gerente cadastre novos funcionários.
+    - RF016: O cadastro deve conter Nome, CPF, RG, Endereço, CEP.
+    - RF017: O sistema deve disponibilizar um tutorial em vídeo.
+    - RF018: O sistema deve gerar relatórios mensais de gastos.
+    - RF019: O relatório deve incluir todas as vendas realizadas no mês.
+    - RF020: O relatório deve comparar os gastos com os meses anteriores.
+    - RF021: O sistema deve gerar um código de segurança para cada novo funcionário.
 
 
 
